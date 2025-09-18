@@ -1,0 +1,30 @@
+img {
+    width: 80%;
+    clip-path: circle(50%);
+    margin-left: 5vh;
+    margin-top: 2vh;
+}
+
+.container {
+    display: flex;
+    column-gap: 1%;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.container #sidebar {
+    background-color: rgba(129, 61, 212, 0.448);
+    border-radius: 10px;
+    width: 25%;
+}
+
+.container #body {
+    background-color: rgba(87, 86, 89, 0.448);
+    width: 75%;
+    border-radius: 10px;
+}
+
+
+
+

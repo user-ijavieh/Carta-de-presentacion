@@ -6,8 +6,9 @@
     <title>JDRC</title>
 </head>
 <body>
-    <?php
-    include
-    ?>
-</body>
+    <div class="container">   
+        <div id="sidebar"> <?php include 'pages/sidebar.php'; ?> </div>
+        <div id="body"> <?php include 'pages/body.php'; ?> </div>
+    </div>
+</body> 
 </html>
