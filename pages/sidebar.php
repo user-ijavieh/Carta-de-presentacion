@@ -6,8 +6,9 @@
     <title>Document</title>
     <link rel="stylesheet" href="./css/styles.css">
 </head>
-<body>
-    <img src="./img/github_profile.png" alt="Pokemon">
-    <p>porque los cubitos de **** no se pueden colocar bien </p>
+<body class="webo">
+    <center>
+    <img src="https://avatars.githubusercontent.com/u/189797624?v=4" alt="Pokemon">
+    </center>
 </body>
 </html>
