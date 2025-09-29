@@ -6,9 +6,9 @@
     <title>Document</title>
     <link rel="stylesheet" href="./css/styles.css">
 </head>
-<body class="webo">
+<body>
     <center>
-    <img src="https://avatars.githubusercontent.com/u/189797624?v=4" alt="Pokemon">
+    <img src="https://avatars.githubusercontent.com/u/189797624?v=4" alt="Imagen-Perfil">
     </center>
 </body>
 </html>
